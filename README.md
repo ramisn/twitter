@@ -1,15 +1,15 @@
 # Twitter
 
-Clone the Repo
+Clone the Repo: 
 git clone https://github.com/ramisn/twitter.git
 
-Bundle
+Bundle: 
 bundle install
 
-Create DB
+Create DB: 
 ./bin/setup
 
-Server
+Server: 
 rails s
 
 
